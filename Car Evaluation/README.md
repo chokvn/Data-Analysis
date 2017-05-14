@@ -12,4 +12,4 @@ While comments can be found to explain the coding, a list of procedure can be su
 5) A CART was created by sklearn.tree and the resulting tree is displayed.
 6) Predicted car 'value' was determined for the X test data
 7) Accuracy of the predicted 'values' compared to the Y test data was calculated
-8) Incorrectly predicted values and their corresponding index value in the dataset are collected and displayed
+8) Incorrectly predicted values and their corresponding index value in the test data are collected and displayed
